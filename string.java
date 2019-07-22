@@ -1,9 +1,9 @@
  
 class AddNumbers
 {
-   public int add(int x,int y)
+   public float add(int x,int y)
    {
-      int x, y, z;
+      float x, y, z;
   
       z = x + y;
     
